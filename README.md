@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumili Datta</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 - 🔭 I’m currently working in **BlackRock Services India Pvt. Ltd. as an Analyst**
 
